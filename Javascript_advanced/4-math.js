@@ -15,3 +15,4 @@ function divideBy(firstNumber) {
   console.log(addBy1000(20)); // 1020
   console.log(divideBy10(20)); // 2
   console.log(divideBy100(20)); // 0.2
+  
